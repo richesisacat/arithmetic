@@ -1,3 +1,18 @@
+## 目录
+```
+├── src/main/java/pre/demo           // 顶层目录
+|   ├── leecode                      // 力扣
+|   ├── other                        // 未归类的算法
+|   ├── sort                     // 排序算法
+|   |   ├── exchange             // 交换排序
+|   |   ├── insert               // 插入排序
+|   |   └── exchange             // 交换排序
+|   └── structure                // 结构对象
+├── pom.xml                      // 依赖配置
+└── .gitignore                   // git忽略
+
+```
+
 ## 算法
 > https://www.cnblogs.com/onepixel/articles/7674659.html
 
