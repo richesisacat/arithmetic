@@ -29,20 +29,26 @@
 |希尔排序|O|O|不稳定|O(1)|
 |二叉树排序|O(n2)|O(nlog2n)|不一顶|O(n)|
 
-### 交换排序
+### 比较类排序
+#### 交换排序
 - 冒泡排序 BubbleSort
 
 - 快速排序 QuickSort
 
-### 选择排序
+#### 选择排序
 - 简单选择排序 SelectionSort
 
 - 堆排序 HeapSort
 
-### 插入排序
+#### 插入排序
 - 直接插入排序 InsertSort
 
 - 希尔排序 ShellSort
+
+#### 归并排序
+
+### 非比较排序
+#### 计数排序
 
 ## leeCode算法题解
 

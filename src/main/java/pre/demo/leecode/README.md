@@ -29,3 +29,15 @@
 ```
 <<
 ```
+
+# 查找的思路
+
+## 二分
+
+## 递归
+
+
+# link
+
+### 算法面试题汇总
+https://leetcode-cn.com/leetbook/detail/top-interview-questions/
